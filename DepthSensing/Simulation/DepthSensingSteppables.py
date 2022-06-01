@@ -2,6 +2,7 @@ from cc3d.core.PySteppables import *
 from random import uniform
 import numpy as np
 
+
 phi0 = {{phi0}}
 m_current = {{m_current}}
 tau= {{tau}}
