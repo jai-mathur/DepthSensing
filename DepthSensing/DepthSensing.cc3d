@@ -1,0 +1,6 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/DepthSensing.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/DepthSensing.py</PythonScript>
+   <Resource Type="Python">Simulation/DepthSensingSteppables.py</Resource>
+   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.json</ParameterScan>
+</Simulation>
