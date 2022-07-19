@@ -7,20 +7,23 @@
         "phi0":{            
             "values":[1]
         },
-        "m_current":{            
+        "m":{            
             "values":[110]
         },
         "r_alpha_neg":{            
             "values":[0.0005]
         },
-        "tau":{            
-            "values":[200]
+        "max_alpha_thresh":{            
+            "values":[0.9]
         },
         "half_cone":{            
-            "values":[90]
+            "values":[60]
+        },
+        "ARP_depletion":{            
+            "values":[0]
         },
         "CE":{            
-            "values":[15]
+            "values":[30]
         }
     }
 }

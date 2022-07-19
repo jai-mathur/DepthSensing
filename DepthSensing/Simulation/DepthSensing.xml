@@ -3,7 +3,7 @@
    <Metadata>
       
       <!-- Basic properties simulation -->
-      <NumberOfProcessors>2</NumberOfProcessors>
+      <NumberOfProcessors>1</NumberOfProcessors>
       <DebugOutputFrequency>100</DebugOutputFrequency>
       <!-- <NonParallelModule Name="Potts"/> -->
    </Metadata>
@@ -12,7 +12,7 @@
       
       <!-- Basic properties of CPM (GGH) algorithm -->
       <Dimensions x="400" y="400" z="1"/>
-      <Steps>4000</Steps>
+      <Steps>4001</Steps>
       <Temperature>10.0</Temperature>
       <NeighborOrder>2</NeighborOrder>
    </Potts>
