@@ -20,10 +20,13 @@
             "values":[60]
         },
         "ARP_depletion":{            
+            "values":[1]
+        },
+        "LAS_ablation":{            
             "values":[0]
         },
         "CE":{            
-            "values":[30]
+            "values":[15]
         }
     }
 }

@@ -15,3 +15,4 @@ CompuCellSetup.register_steppable(steppable=SetCellForces(frequency=1))
 
 
 CompuCellSetup.run()
+ 

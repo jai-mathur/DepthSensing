@@ -9,6 +9,8 @@ m = {{m}}
 half_cone= {{half_cone}}
 max_alpha_thresh= {{max_alpha_thresh}}
 CE= {{CE}}
+LAS_ablation= {{LAS_ablation}} 
+ARP_depletion= {{ARP_depletion}}
 
 if CE != 15:
    phi0= 0.8
